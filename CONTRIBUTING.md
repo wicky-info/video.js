@@ -273,3 +273,4 @@ This doc was inspired by some great contribution guide examples including [contr
 [html5 boilerplate](https://github.com/h5bp/html5-boilerplate/blob/master/CONTRIBUTING.md),
 [jquery](https://github.com/jquery/jquery/blob/master/CONTRIBUTING.md),
 and [node.js](https://github.com/joyent/node/wiki/Contributing).
+# I'am fork video js (https://github.com/wicky-info)
